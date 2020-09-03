@@ -26,7 +26,7 @@ point out some tools and resources you can use along your path.
 	Computer and project setup with Github, Conda, and the Data Store <step2.rst>
 	Use Biocontainers to assemble your tools <step3.rst>
 	Use Snakemake to build your workflow <step4.rst>
-  Use Jupyter to communicate your results <step5.rst>
+        Use Jupyter to communicate your results <step5.rst>
 ..
 	#### Comment:This tutorial can have multiple pages. The table of contents assumes
 	you have an additional page called 'Step One' with content located in 'step1.rst'
